@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Chris Storey"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/chris_storey.jpg"
   bio    : "Tech Lead and Scouter, West Yorkshire"
   links:
     - label: "Website"
